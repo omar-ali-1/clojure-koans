@@ -1,1 +1,1 @@
-Solutions for Clojure koans http://clojurekoans.com.
+**This branch is outdated.**
